@@ -11,3 +11,4 @@ Track trends of test failures over time
 Download test reports for offline analysis
 
 Responsive UI for both desktop and mobile screens
+Frontend: React | Backend: Spring Boot | Database: MySQL | APIs: REST
